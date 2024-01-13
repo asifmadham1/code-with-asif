@@ -1,0 +1,25 @@
+
+    @font-face {
+        font-family:oswald;
+        src: url(C:\Users\NA\OneDrive\Desktop\code with asif\madham\fonts\oswald.regular.ttf);
+    }
+*{
+    font-family: oswald;
+}
+h1 {
+    color: blue;
+    background-color:blanchedalmond;
+    text-align: center;
+    opacity: 0.9;
+    
+}
+h2{
+    color: tomato;
+    background-color: beige;
+    text-align: end;
+    opacity: 0.1;
+
+    
+}
+
+
