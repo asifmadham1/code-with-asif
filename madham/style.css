@@ -10,16 +10,29 @@ h1 {
     color: blue;
     background-color:blanchedalmond;
     text-align: center;
-    opacity: 0.9;
+    opacity: 0.3;
     
 }
 h2{
     color: tomato;
     background-color: beige;
     text-align: end;
-    opacity: 0.1;
-
-    
+    opacity: 0.3;
 }
+h3 {
+    color: aliceblue;
+    background-color: aquamarine;
+    text-align: justify
 
+}
+h4 {
+    color: chartreuse;
+    background-color: bisque;
+    text-align: center;
+    }
+h6 {
+    color: cyan;
+    background-color: burlywood;
+    text-align: left;
+}
 
